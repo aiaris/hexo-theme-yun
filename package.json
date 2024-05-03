@@ -2,7 +2,7 @@
   "name": "@hexo-theme-yun/monorepo",
   "type": "module",
   "private": true,
-  "packageManager": "pnpm@8.15.3",
+  "packageManager": "pnpm@9.0.6",
   "description": "☁️ A fast & light & lovely theme for Hexo.",
   "author": "YunYouJun <me@yunyoujun.cn>",
   "license": "MIT",
@@ -39,16 +39,16 @@
     "release": "bumpp packages/hexo-theme-yun/package.json --commit --push --tag"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^2.6.4",
-    "@types/node": "^20.11.20",
-    "bumpp": "^9.3.0",
+    "@antfu/eslint-config": "^2.16.1",
+    "@types/node": "^20.12.8",
+    "bumpp": "^9.4.1",
     "cross-env": "^7.0.3",
-    "eslint": "^8.57.0",
-    "esno": "~4.0.0",
+    "eslint": "^9.1.1",
+    "esno": "~4.7.0",
     "husky": "^9.0.11",
     "lint-staged": "^15.2.2",
     "tsup": "^8.0.2",
-    "typescript": "^5.3.3",
+    "typescript": "^5.4.5",
     "zx": "^7.2.3"
   },
   "lint-staged": {
