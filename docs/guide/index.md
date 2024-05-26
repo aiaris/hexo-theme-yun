@@ -16,7 +16,7 @@
 如果您已经是 hexo-theme-yun 的使用者：
 
 - Valaxy 提供了 [valaxy-theme-yun](https://github.com/YunYouJun/valaxy/tree/main/packages/valaxy-theme-yun) 主题以供迁移。（您也可以稍作等待，我们会继续修复细节，并优化迁移体验。）
-- 如果您不想要迁移，hexo-theme-yun 会保持项目的维护和 BUG 修复，但不会再添加新功能或做大的变更。
+- 如果您不想要迁移，hexo-theme-yun 会保持项目的维护和 BUG 修复，但不会再添加新功能或非缺陷型修复。
 
 :::
 

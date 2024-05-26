@@ -1,5 +1,38 @@
 # User's Guidance
 
+::: warning [hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) 已进入维护模式，不再添加新功能。
+
+[Valaxy](https://github.com/YunYouJun/valaxy) 与 [valaxy-theme-yun](https://github.com/YunYouJun/valaxy/tree/main/packages/valaxy-theme-yun) 将成为它的继任者。
+
+---
+
+如果您是新手，我更推荐你直接尝试 [Valaxy - 静态博客框架](https://valaxy.site)。
+
+- 它从更底层上解决了 Hexo 目前存在的一些问题与不足，也会是我之后着重维护更新的项目。
+- valaxy-theme-yun 已经实现 hexo-theme-yun 的几乎所有功能，此外它的热更新开发体验绝对值得您一试！
+
+---
+
+如果您已经是 hexo-theme-yun 的使用者：
+
+- Valaxy 提供了 [valaxy-theme-yun](https://github.com/YunYouJun/valaxy/tree/main/packages/valaxy-theme-yun) 主题以供迁移。（您也可以稍作等待，我们会继续修复细节，并优化迁移体验。）
+- 如果您不想要迁移，hexo-theme-yun 会保持项目的维护，但不会再添加新功能或非缺陷型修复。
+
+:::
+
+::: warning [hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) is in maintenance mode and no longer adding new features.
+
+[Valaxy](https://github.com/YunYouJun/valaxy) and [valaxy-theme-yun](https://github.com/YunYouJun/valaxy/tree/main/packages/valaxy-theme-yun) will be its successors.
+
+---
+
+If you are a beginner, I recommend you to try [Valaxy - Static Blog Framework](https://valaxy.site).
+
+- It solves some of the problems and shortcomings of Hexo from a lower level, and will be the project I will focus on maintaining and updating later.
+- valaxy-theme-yun has almost all the features of hexo-theme-yun, and its hot update development experience is definitely worth a try!
+
+:::
+
 This is a Hexo theme. Please make sure you acknowledge the basic usage of Hexo.
 
 You can also refer to the newbie tutorial I wrote [Tutorial on how to build your website from scratch-Yunyoujun's small station](https://www.yunyoujun.cn/share/how-to-build-your-site/).
